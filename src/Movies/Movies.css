@@ -1,7 +1,7 @@
 .movies{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 span{
-    font: 1em sans-serif;
-}
+   margin-left:0 ;
+   }
