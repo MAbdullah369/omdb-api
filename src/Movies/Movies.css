@@ -1,7 +1,16 @@
-.movies{
-    display: flex;
-    flex-direction: row;
+.movies {
+  display: flex;
 }
-span{
-   margin-left:0 ;
-   }
+
+.mov {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+span {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  height: 5px;
+}
